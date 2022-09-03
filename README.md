@@ -1,22 +1,23 @@
-## Hello, my name is Dedan Okware (SoftCysec) and welcome.
-
+### Hello, my name is Dedan Okware (SoftCysec) and welcome.
+----------------------------------------------------------------------------------------------------------------------------
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SoftCysec)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/softcysec-dedan-okware/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Dedan_O_Okware)](https://twitter.com/Dedan_O_Okware)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:softengdedan@gmail.com)
 
 ### About Me
+----------------------------------------------------------------------------------------------------------------------------
 - Machine Learning
 - Web Development (Django, Laravel)
 - Software Development
 - Azure Machine Learning Development
 
 ### Educational Background
-- [x] B.Sc. Computer Security & Forensics - expected graduation year -2022- [Kabarak University](https://www.kabarak.ac.ke/).
+----------------------------------------------------------------------------------------------------------------------------
+- [x] B.Sc. Computer Security & Forensics - expected graduation year -2024- [Kabarak University](https://www.kabarak.ac.ke/).
 
 Currently, I am building a Prediction Software as a final project for [PLP(PowerLearnProject)](https://academy.powerlearnproject.org/). You can check my [repo](https://github.com/SoftCysec?tab=repositories) for more pending or completed projects.
 
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 <!-- - 🔭 I’m currently working on an Prediction software Project (With Django) 
@@ -30,7 +31,7 @@ Currently, I am building a Prediction Software as a final project for [PLP(Power
 ----------------------------------------------------------------------------------------------------------------------------
 - Languages - **PHP, Dart and Python**
 - Libraries/Frameworks: - **Flutter, Django and Laravel**
-- Databases/ODM: - **MySQL**
+- Database : - **MySQL**
 
 ### Languages and Tools
 ----------------------------------------------------------------------------------------------------------------------------
@@ -50,15 +51,18 @@ Currently, I am building a Prediction Software as a final project for [PLP(Power
 </h2>
 
 ### Github Streak
+----------------------------------------------------------------------------------------------------------------------------
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoftCysec)](https://github.com/SoftCysec)
 
 ### Github Stats
+----------------------------------------------------------------------------------------------------------------------------
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=SoftCysec&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SoftCysec&hide=javascript,html,css,scss,pythonless&theme=radical">
 </p>
 
 ### Contribution
+----------------------------------------------------------------------------------------------------------------------------
 <p align="center">
 <img src = "https://activity-graph.herokuapp.com/graph?username=SoftCysec&theme=redical"  />
 </p>
