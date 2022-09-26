@@ -8,7 +8,7 @@
 ### About Me
 ----------------------------------------------------------------------------------------------------------------------------
 - Machine Learning
-- Web Development (Django, Laravel)
+- Web Development (Django, React)
 - Software Development
 - Azure Machine Learning Development
 
@@ -29,9 +29,9 @@ Currently, I am building a Prediction Software as a final project for [PLP(Power
 
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
-- Languages - **PHP, Dart and Python**
-- Libraries/Frameworks: - **Flutter, Django and Laravel**
-- Database : - **MySQL**
+- Languages - **Dart and Python**
+- Libraries/Frameworks: - **Flutter, Django & React**
+- Database : - **MySQL, Sqlite**
 
 ### Languages and Tools
 ----------------------------------------------------------------------------------------------------------------------------
