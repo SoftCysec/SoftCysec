@@ -8,7 +8,7 @@
 ### About Me
 ----------------------------------------------------------------------------------------------------------------------------
 - Machine Learning
-- Web Development (Django, Angular)
+- Web Development (Django || Python, Angular || javascript, Laravel || PHP)
 - Software Development
 - Azure Machine Learning Development
 
