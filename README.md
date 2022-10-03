@@ -16,7 +16,7 @@
 ----------------------------------------------------------------------------------------------------------------------------
 - [x] B.Sc. Computer Security & Forensics - expected graduation year -2024- [Kabarak University](https://www.kabarak.ac.ke/).
 
-Currently, I am building a Prediction Software as a final project for [PLP(PowerLearnProject)](https://academy.powerlearnproject.org/). You can check my [repo](https://github.com/SoftCysec?tab=repositories) for more pending or completed projects.
+Currently, I am building a Diabetes Prediction Application for the [Central Rift Innovation Week Exhibition](https://kabarak.ac.ke/innovation-week). You can check my [repo](https://github.com/SoftCysec?tab=repositories) for more pending or completed projects.
 
 
 
