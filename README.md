@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/softcysec-dedan-okware/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Dedan_O_Okware)](https://twitter.com/Dedan_O_Okware)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:softengdedan@gmail.com)
-
+[![Website](https://img.shields.io/website?down_color=blue&down_message=offline&style=plastic&up_color=lightgreen&up_message=portfolio&url=https%3A%2F%2Fdedan-okware.netlify.app%2F)](https://dedan-okware.netlify.app/)
 ### About Me
 ----------------------------------------------------------------------------------------------------------------------------
 - Machine Learning
@@ -26,7 +26,8 @@ Currently, I am building a Prediction Software as a final project for [PLP(Power
 - 💬 Ask me about anything and everything
 - 📫 How to reach me: softengdedan@gmail.com
 - 📫 Phone Number: +254704860552
-
+- 📫 Access my web portfolio for more <br />
+[![Website](https://img.shields.io/website?down_color=blue&down_message=offline&style=for-the-badge&up_color=lightgreen&up_message=portfolio&url=https%3A%2F%2Fdedan-okware.netlify.app%2F)](https://dedan-okware.netlify.app/)
 ### Skills ###
 ----------------------------------------------------------------------------------------------------------------------------
 - Languages - **Dart and Python**
