@@ -59,7 +59,7 @@ Currently, I am building a Diabetes Prediction Application for the [Central Rift
 ----------------------------------------------------------------------------------------------------------------------------
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=SoftCysec&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SoftCysec&hide=javascript,html,css,scss,pythonless&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SoftCysec&hide=dart,django,javascript,html,css,scss,pythonless&theme=radical">
 </p>
 
 ### Contribution
