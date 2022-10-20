@@ -65,6 +65,7 @@ Currently, I am building a Diabetes Prediction Application for the [Central Rift
 ### Contribution
 ----------------------------------------------------------------------------------------------------------------------------
 <p align="center">
-<img src = "https://activity-graph.herokuapp.com/graph?username=SoftCysec&theme=redical"  />
+<img src = "https://activity-graph.herokuapp.com/graph?username=SoftCysec&bg_color=red&color=2fa4e7&line=2fa4e7&point=none&area=true&area_color=2fa4e7&hide_border=true"  />
 </p>
+
 
