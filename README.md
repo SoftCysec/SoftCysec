@@ -45,6 +45,10 @@ Currently, I am building a Diabetes Prediction Application for the [Central Rift
 <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP" />
 <img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter" />
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Dialogflow-black?style=flat-square&logo=Dialogflow"/>
+<img src="https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow"/>
+<img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub"/>
 </p><br />
 
 <h2 align="center">
