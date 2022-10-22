@@ -37,8 +37,8 @@ Currently, I am building a Diabetes Prediction Application for the [Central Rift
 ### Languages and Tools
 ----------------------------------------------------------------------------------------------------------------------------
 <p align="left">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=CSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
 <img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django"/>
 <img src="https://img.shields.io/badge/-Dart-black?style=flat-square&logo=Dart" />
