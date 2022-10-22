@@ -49,6 +49,10 @@ Currently, I am building a Diabetes Prediction Application for the [Central Rift
 <img src="https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow"/>
 <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub"/>
+<img src="https://img.shields.io/badge/-Visual Studio Code-black?style=flat-square&logo=Visual Studio Code"/>
+<img src="https://img.shields.io/badge/-Microsoft Azure-black?style=flat-square&logo=Microsoft Azure"/>
+<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker"/>
+<img src="https://img.shields.io/badge/--black?style=flat-square&logo="/>
 </p><br />
 
 <h2 align="center">
@@ -69,7 +73,7 @@ Currently, I am building a Diabetes Prediction Application for the [Central Rift
 ### Contribution
 ----------------------------------------------------------------------------------------------------------------------------
 <p align="center">
-<img src = "https://activity-graph.herokuapp.com/graph?username=SoftCysec&bg_color=red&color=2fa4e7&line=2fa4e7&point=none&area=true&area_color=2fa4e7&hide_border=true"  />
+<img src = "https://activity-graph.herokuapp.com/graph?username=SoftCysec&bg_color=red&color=2fa4e7&line=2fa4e7&point=none&area=true&area_color=green&hide_border=true"  />
 </p>
 
 
