@@ -52,6 +52,7 @@ Currently, I am building a Diabetes Prediction Application for the [Central Rift
 <img src="https://img.shields.io/badge/-Visual Studio Code-black?style=flat-square&logo=Visual Studio Code"/>
 <img src="https://img.shields.io/badge/-Microsoft Azure-black?style=flat-square&logo=Microsoft Azure"/>
 <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker"/>
+<img src="https://img.shields.io/badge/-QGIS-black?style=flat-square&logo=QGIS"/>
 <img src="https://img.shields.io/badge/--black?style=flat-square&logo="/>
 </p><br />
 
