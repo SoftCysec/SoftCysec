@@ -16,12 +16,6 @@
 ----------------------------------------------------------------------------------------------------------------------------
 - [x] B.Sc. Computer Security & Forensics - expected graduation year -2024- [Kabarak University](https://www.kabarak.ac.ke/).
 
-Currently, I am building a Diabetes Prediction Application for the [Central Rift Innovation Week Exhibition](https://kabarak.ac.ke/innovation-week). You can check my [repo](https://github.com/SoftCysec?tab=repositories) for more pending or completed projects.
-
-
-
-<!-- - 🔭 I’m currently working on an Prediction software Project (With Django) 
-- 🌱 Still learning Dart/Flutter -->
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything and everything
 - 📫 How to reach me: softengdedan@gmail.com
@@ -33,6 +27,10 @@ Currently, I am building a Diabetes Prediction Application for the [Central Rift
 - Languages - **Dart and Python**
 - Libraries/Frameworks: - **Flutter, Django & Angular**
 - Database : - **MySQL, Sqlite**
+
+### Badges ###
+----------------------------------------------------------------------------------------------------------------------------
+![Screenshot from 2022-11-06 13-27-27](https://user-images.githubusercontent.com/108905313/200165669-8f17b752-2516-46c3-9520-bbc32f22ac7a.png)   ![Screenshot from 2022-11-06 13-28-35](https://user-images.githubusercontent.com/108905313/200165707-89e5c922-46e1-45c9-a8a6-d25491e06d1d.png) ![Screenshot from 2022-11-06 13-30-53](https://user-images.githubusercontent.com/108905313/200165789-6302af66-b12b-469f-ba6a-b052c8cb86de.png)
 
 ### Languages and Tools
 ----------------------------------------------------------------------------------------------------------------------------
@@ -53,7 +51,7 @@ Currently, I am building a Diabetes Prediction Application for the [Central Rift
 <img src="https://img.shields.io/badge/-Microsoft Azure-black?style=flat-square&logo=Microsoft Azure"/>
 <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker"/>
 <img src="https://img.shields.io/badge/-QGIS-black?style=flat-square&logo=QGIS"/>
-<img src="https://img.shields.io/badge/--black?style=flat-square&logo="/>
+<img src="https://img.shields.io/badge/-GeoDjango-black?style=flat-square&logo=Django"/>
 </p><br />
 
 <h2 align="center">
