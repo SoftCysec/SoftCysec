@@ -30,7 +30,7 @@
 
 ### Badges ###
 ----------------------------------------------------------------------------------------------------------------------------
-![Screenshot from 2022-11-06 13-27-27](https://user-images.githubusercontent.com/108905313/200165669-8f17b752-2516-46c3-9520-bbc32f22ac7a.png)   ![Screenshot from 2022-11-06 13-28-35](https://user-images.githubusercontent.com/108905313/200165707-89e5c922-46e1-45c9-a8a6-d25491e06d1d.png) ![Screenshot from 2022-11-06 13-30-53](https://user-images.githubusercontent.com/108905313/200165789-6302af66-b12b-469f-ba6a-b052c8cb86de.png)
+<!-- ![Screenshot from 2022-11-06 13-27-27](https://user-images.githubusercontent.com/108905313/200165669-8f17b752-2516-46c3-9520-bbc32f22ac7a.png)   ![Screenshot from 2022-11-06 13-28-35](https://user-images.githubusercontent.com/108905313/200165707-89e5c922-46e1-45c9-a8a6-d25491e06d1d.png) ![Screenshot from 2022-11-06 13-30-53](https://user-images.githubusercontent.com/108905313/200165789-6302af66-b12b-469f-ba6a-b052c8cb86de.png) -->
 
 ### Languages and Tools
 ----------------------------------------------------------------------------------------------------------------------------
