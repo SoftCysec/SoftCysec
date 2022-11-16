@@ -22,15 +22,6 @@
 - 📫 Phone Number: +254704860552
 - 📫 Access my web portfolio for more <br />
 [![Website](https://img.shields.io/website?down_color=blue&down_message=offline&style=for-the-badge&up_color=lightgreen&up_message=portfolio&url=https%3A%2F%2Fdedan-okware.netlify.app%2F)](https://dedan-okware.netlify.app/)
-### Skills ###
-----------------------------------------------------------------------------------------------------------------------------
-- Languages - **Dart and Python**
-- Libraries/Frameworks: - **Flutter, Django & Angular**
-- Database : - **MySQL, Sqlite**
-
-### Badges ###
-----------------------------------------------------------------------------------------------------------------------------
-<!-- ![Screenshot from 2022-11-06 13-27-27](https://user-images.githubusercontent.com/108905313/200165669-8f17b752-2516-46c3-9520-bbc32f22ac7a.png)   ![Screenshot from 2022-11-06 13-28-35](https://user-images.githubusercontent.com/108905313/200165707-89e5c922-46e1-45c9-a8a6-d25491e06d1d.png) ![Screenshot from 2022-11-06 13-30-53](https://user-images.githubusercontent.com/108905313/200165789-6302af66-b12b-469f-ba6a-b052c8cb86de.png) -->
 
 ### Languages and Tools
 ----------------------------------------------------------------------------------------------------------------------------
@@ -52,6 +43,8 @@
 <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker"/>
 <img src="https://img.shields.io/badge/-QGIS-black?style=flat-square&logo=QGIS"/>
 <img src="https://img.shields.io/badge/-GeoDjango-black?style=flat-square&logo=Django"/>
+<img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma"/>
+<img src="https://img.shields.io/badge/-IBM-black?style=flat-square&logo=IBM Cloud"/>
 </p><br />
 
 <h2 align="center">
