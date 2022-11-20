@@ -7,19 +7,7 @@
 [![Website](https://img.shields.io/website?down_color=blue&down_message=offline&style=plastic&up_color=lightgreen&up_message=portfolio&url=https%3A%2F%2Fdedan-okware.netlify.app%2F)](https://dedan-okware.netlify.app/)
 ### About Me
 ----------------------------------------------------------------------------------------------------------------------------
-- Machine Learning
-- Web Development (Django || Python, Angular || javascript, Laravel || PHP)
-- Software Development
-- Azure Machine Learning Development
-
-### Educational Background
-----------------------------------------------------------------------------------------------------------------------------
-- [x] B.Sc. Computer Security & Forensics - expected graduation year -2024- [Kabarak University](https://www.kabarak.ac.ke/).
-
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about anything and everything
-- 📫 How to reach me: softengdedan@gmail.com
-- 📫 Phone Number: +254704860552
+- I am a passionate Software Developer interested in learning new technologies in tech
 - 📫 Access my web portfolio for more <br />
 [![Website](https://img.shields.io/website?down_color=blue&down_message=offline&style=for-the-badge&up_color=lightgreen&up_message=portfolio&url=https%3A%2F%2Fdedan-okware.netlify.app%2F)](https://dedan-okware.netlify.app/)
 
