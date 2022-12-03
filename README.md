@@ -53,7 +53,7 @@
 ### Contribution
 ----------------------------------------------------------------------------------------------------------------------------
 <p align="center">
-<img src = "https://activity-graph.herokuapp.com/graph?username=SoftCysec&bg_color=red&color=2fa4e7&line=2fa4e7&point=none&area=true&area_color=green&hide_border=true"  />
+<img src = "https://activity-graph.herokuapp.com/graph?username=SoftCysec&bg_color=red&color=2fa4e7&line=2fa4e7&point=none&area=true&area_color=green&hide_border=true"/>
 </p>
 
 
