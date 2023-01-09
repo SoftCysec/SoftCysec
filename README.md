@@ -1,4 +1,4 @@
-### Hello, my name is Dedan Okware (SoftCysec) and welcome.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=33&duration=3000&pause=840&color=DF8413&background=000000&vCenter=true&repeat=false&width=1000&height=83&lines=Hello%2C+This+is+Dedan+Okware;I+am+a+passionate+software+developer+;Interested+in+learning+new+technologies+in+tech)](https://git.io/typing-svg)
 ----------------------------------------------------------------------------------------------------------------------------
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SoftCysec)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/softcysec-dedan-okware/)
@@ -7,7 +7,6 @@
 [![Website](https://img.shields.io/website?down_color=blue&down_message=offline&style=plastic&up_color=lightgreen&up_message=portfolio&url=https%3A%2F%2Fdedan-okware.netlify.app%2F)](https://dedan-okware.netlify.app/)
 ### About Me
 ----------------------------------------------------------------------------------------------------------------------------
-- I am a passionate Software Developer interested in learning new technologies in tech
 - 📫 Access my web portfolio for more <br />
 [![Website](https://img.shields.io/website?down_color=blue&down_message=offline&style=for-the-badge&up_color=lightgreen&up_message=portfolio&url=https%3A%2F%2Fdedan-okware.netlify.app%2F)](https://dedan-okware.netlify.app/)
 
@@ -49,11 +48,3 @@
   <img  src = "https://github-readme-stats.vercel.app/api?username=SoftCysec&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SoftCysec&hide=dart,django,javascript,html,css,scss,pythonless&theme=radical">
 </p>
-
-### Contribution
-----------------------------------------------------------------------------------------------------------------------------
-<p align="center">
-<img src = "https://activity-graph.herokuapp.com/graph?username=SoftCysec&bg_color=red&color=2fa4e7&line=2fa4e7&point=none&area=true&area_color=green&hide_border=true"/>
-</p>
-
-
