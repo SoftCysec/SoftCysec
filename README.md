@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=30&duration=3000&pause=840&color=DF8413&background=000000&vCenter=true&width=1000&height=83&lines=Hello%2C+This+is+Dedan+Okware;I+am+a+passionate+Software+%26+Machine+Learning+Developer;Interested+in+learning+new+technologies+in+tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=900&size=24&duration=3000&pause=840&color=4E6995&background=FFFFFF&vCenter=true&width=1000&height=83&lines=Hello%2C+This+is+Dedan+Okware;I+am+a+passionate+Software+%26+Machine+Learning+Developer;Interested+in+learning+new+technologies+in+tech)](https://git.io/typing-svg)
 ----------------------------------------------------------------------------------------------------------------------------
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SoftCysec)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/softcysec-dedan-okware/)
