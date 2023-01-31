@@ -10,6 +10,11 @@
 - 📫 Access my web portfolio for more <br />
 [![Website](https://img.shields.io/website?down_color=blue&down_message=offline&style=for-the-badge&up_color=lightgreen&up_message=portfolio&url=https%3A%2F%2Fdedan-okware.netlify.app%2F)](https://dedan-okware.netlify.app/)
 
+### Badges
+----------------------------------------------------------------------------------------------------------------------------
+<img src="introduction-to-cybersecurity-tools-cyber-attacks.png" width="140" height="140">
+
+
 ### Languages and Tools
 ----------------------------------------------------------------------------------------------------------------------------
 <p align="left">
