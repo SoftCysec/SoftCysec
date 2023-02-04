@@ -5,6 +5,9 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Dedan_O_Okware)](https://twitter.com/Dedan_O_Okware)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:softengdedan@gmail.com)
 [![Website](https://img.shields.io/website?down_color=blue&down_message=offline&style=plastic&up_color=lightgreen&up_message=portfolio&url=https%3A%2F%2Fdedan-okware.netlify.app%2F)](https://dedan-okware.netlify.app/)
+
+![Metrics](https://metrics.lecoq.io/SoftCysec?template=classic&isocalendar=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=Africa%2FNairobi)
+
 ### About Me
 ----------------------------------------------------------------------------------------------------------------------------
 - 📫 Access my web portfolio for more <br />
@@ -43,6 +46,9 @@
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
 
+### 📈 GitHub Activity Graph:
+[![SoftCysec's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=SoftCysec&theme=github-compact)](https://github.com/SoftCysec/github-readme-activity-graph)
+
 ### Github Streak
 ----------------------------------------------------------------------------------------------------------------------------
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SoftCysec&theme=radical&hide_border=true)](https://git.io/streak-stats)
@@ -53,3 +59,8 @@
   <img  src = "https://github-readme-stats.vercel.app/api?username=SoftCysec&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SoftCysec&hide=dart,django,javascript,html,css,scss,pythonless&theme=radical">
 </p>
+
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+
