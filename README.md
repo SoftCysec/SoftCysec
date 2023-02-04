@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:softengdedan@gmail.com)
 [![Website](https://img.shields.io/website?down_color=blue&down_message=offline&style=plastic&up_color=lightgreen&up_message=portfolio&url=https%3A%2F%2Fdedan-okware.netlify.app%2F)](https://dedan-okware.netlify.app/)
 
-![Metrics](https://metrics.lecoq.io/SoftCysec?template=classic&isocalendar=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=Africa%2FNairobi)
+![Metrics](https://metrics.lecoq.io/SoftCysec?template=classic&isocalendar=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=Africa%2FNairobi)
 
 ### About Me
 ----------------------------------------------------------------------------------------------------------------------------
