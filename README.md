@@ -40,6 +40,7 @@
 <img src="https://img.shields.io/badge/-GeoDjango-black?style=flat-square&logo=Django"/>
 <img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma"/>
 <img src="https://img.shields.io/badge/-IBM-black?style=flat-square&logo=IBM Cloud"/>
+<img src="https://img.shields.io/badge/-Excel-black?style=flat-square&logo=Excel"/>
 </p><br />
 
 <h2 align="center">
