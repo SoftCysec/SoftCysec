@@ -15,7 +15,7 @@
 
 ### Badges
 ----------------------------------------------------------------------------------------------------------------------------
-<img src="introduction-to-cybersecurity-tools-cyber-attacks.png" width="140" height="140">
+
 
 
 ### Languages and Tools
