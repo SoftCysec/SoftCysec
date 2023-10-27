@@ -15,7 +15,9 @@
 
 ### Badges
 ----------------------------------------------------------------------------------------------------------------------------
-
+[![committers.top badge](https://user-badge.committers.top/kenya/SoftCysec.svg)](https://user-badge.committers.top/kenya/SoftCysec)
+[![committers.top badge](https://user-badge.committers.top/kenya_public/SoftCysec.svg)](https://user-badge.committers.top/kenya_public/SoftCysec)
+[![committers.top badge](https://user-badge.committers.top/kenya_private/SoftCysec.svg)](https://user-badge.committers.top/kenya_private/SoftCysec)
 
 
 ### Languages and Tools
