@@ -29,6 +29,8 @@
     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js&logoColor=white" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" width="80" height="30"/>
+    <img src="https://img.shields.io/badge/-Adonisjs-black?style=flat-square&logo=adonisjs" width="80" height="30"/>
+    <img src="https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=nuxtjs" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" width="80" height="30"/>
