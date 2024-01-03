@@ -35,6 +35,7 @@
     <img src="https://img.shields.io/badge/-Nuxt-black?style=flat-square&logo=nuxtjs" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB" width="80" height="30"/>
+    <img src="https://img.shields.io/badge/-Golang-black?style=flat-square&logo=Go" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=Streamlit" width="80" height="30"/>
