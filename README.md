@@ -8,11 +8,6 @@
 
 ![Metrics](https://metrics.lecoq.io/SoftCysec?template=classic&isocalendar=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=Africa%2FNairobi)
 
-### About Me
-----------------------------------------------------------------------------------------------------------------------------
-- 📫 Access my web portfolio for more <br />
-[![Website](https://img.shields.io/website?down_color=blue&down_message=offline&style=for-the-badge&up_color=lightgreen&up_message=portfolio&url=https%3A%2F%2Fdedan-okware.netlify.app%2F)](https://dedan-okware.netlify.app/)
-
 ### Badges
 ----------------------------------------------------------------------------------------------------------------------------
 [![committers.top badge](https://user-badge.committers.top/kenya/SoftCysec.svg)](https://user-badge.committers.top/kenya/SoftCysec)
