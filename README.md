@@ -6,18 +6,11 @@
 
 ![Metrics](https://metrics.lecoq.io/SoftCysec?template=classic&isocalendar=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&config.timezone=Africa%2FNairobi)
 
-### Badges
-----------------------------------------------------------------------------------------------------------------------------
-[![committers.top badge](https://user-badge.committers.top/kenya/SoftCysec.svg)](https://user-badge.committers.top/kenya/SoftCysec)
-[![committers.top badge](https://user-badge.committers.top/kenya_public/SoftCysec.svg)](https://user-badge.committers.top/kenya_public/SoftCysec)
-[![committers.top badge](https://user-badge.committers.top/kenya_private/SoftCysec.svg)](https://user-badge.committers.top/kenya_private/SoftCysec)
-
 
 ### Languages and Tools
 ----------------------------------------------------------------------------------------------------------------------------
 <p align="left">
     <!-- Existing Logos with Corrections -->
-    <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php&logoColor=white" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel&logoColor=white" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=white" width="80" height="30"/>
