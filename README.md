@@ -10,6 +10,8 @@
 ----------------------------------------------------------------------------------------------------------------------------
 <p align="left">
     <!-- Existing Logos with Corrections -->
+    <img src="https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust&logoColor=white" width="80" height="30"/>
+    <img src="https://img.shields.io/badge/-Tauri-black?style=flat-square&logo=tauri&logoColor=white" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel&logoColor=white" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=white" width="80" height="30"/>
