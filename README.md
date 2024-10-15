@@ -11,6 +11,8 @@
 <p align="left">
     <!-- Existing Logos with Corrections -->
     <img src="https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust&logoColor=DEA584" width="80" height="30"/>
+    <img src="https://img.shields.io/badge/-Burn-black?style=flat-square&logo=burn&logoColor=DEA584" width="80" height="30"/>
+    <img src="https://img.shields.io/badge/-ICP-black?style=flat-square&logo=internet-computer&logoColor=white" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Tauri-black?style=flat-square&logo=tauri&logoColor=FFC131" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel&logoColor=white" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white" width="80" height="30"/>
@@ -56,6 +58,7 @@
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-JIRA-black?style=flat-square&logo=jira" width="80" height="30"/>
     <img src="https://img.shields.io/badge/-Confluence-black?style=flat-square&logo=confluence" width="80" height="30"/>
+
 </p><br />
 
 <h2 align="center">
